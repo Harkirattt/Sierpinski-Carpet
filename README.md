@@ -1,5 +1,5 @@
 # Sierpinski-Carpet
-2D Visualization of the Chaos Game / Sierpiński Triangle. 
+2D Visualization of the Sierpiński Carpet. 
 
 Screenshots:
 
